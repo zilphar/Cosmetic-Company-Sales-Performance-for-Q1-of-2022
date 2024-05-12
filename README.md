@@ -20,3 +20,7 @@ Here is the link to the full analysis story: https://medium.com/@zilpharmatheka/
 2. Most demand is present for products with a higher lead time (21-30).
 3. Total Revenue generated in the first Quarter is $557K (a combination of revenue from January, February, and March). The set revenue at for the month of March or end of first quarter is $195K and was attained by a 0.17%.
 4. To attain the set target Revenue of 205K for the Month of April, a daily sale target of 602 products has to be achieved for each of the remaining 20 days. 
+
+**<ins> Tool Used</ins>**
+
+MS Excel
