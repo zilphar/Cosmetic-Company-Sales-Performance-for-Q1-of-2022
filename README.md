@@ -5,6 +5,8 @@
 This is an Analysis I did for a sample Cosmetic Organization to derive insights on how they performed on the first quarter of the year 2022. 
 The data is from 1/1/2022 to 4/10/2022.
 
+Here is the link to the full analysis story: https://medium.com/@zilpharmatheka/supply-chain-analysis-using-excel-fd460ba9cf89 
+
 **<ins>Questions to Answer</ins>**
 
 1. The organization Executives want to know which product has the highest demand so they can know how to allocate resources.
