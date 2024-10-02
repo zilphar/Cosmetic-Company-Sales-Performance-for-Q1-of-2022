@@ -5,7 +5,7 @@
 This is an Analysis I did for a sample Cosmetic Organization to derive insights on how they performed on the first quarter of the year 2022. 
 The data is from 1/1/2022 to 4/10/2022.
 
-Here is the link to the full analysis story: https://medium.com/@zilpharmatheka/supply-chain-analysis-using-excel-fd460ba9cf89 
+Link to the report: https://zilphar97-my.sharepoint.com/:x:/g/personal/zilphar_zilphar97_onmicrosoft_com/Ea7Hlhg_2rtFvmMiAfTSGsoBU9_067g2Awj4W_0-2zbNJA?rtime=1SEPUuzi3Eg&nav=MTVfe0JGRDMzNDgxLTI0MkQtNDUwMC1BM0YyLUZENEZFMzU1OTdCQn0 
 
 **<ins>Questions to Answer</ins>**
 
@@ -24,3 +24,5 @@ Here is the link to the full analysis story: https://medium.com/@zilpharmatheka/
 **<ins> Tool Used</ins>**
 
 MS Excel
+
+Link to a medium story: https://medium.com/@zilpharmatheka/supply-chain-analysis-using-excel-fd460ba9cf89 
